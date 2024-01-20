@@ -74,7 +74,6 @@ Below plot of rewards per episode
 - plot an average reward (over 100 episodes)
 - the objective for the average score is set to 15 (above the minimum of 13 required to solve the environment)
 - It shows this agent solve the environment in 774 episodes
-![plot](https://github.com/ealbenque/demo-repo/assets/137990986/fe7ed600-4a37-4d68-bfbd-0b415588ac9b)
 
 ~~~python
 Episode 100	Average Score: 0.84
@@ -87,6 +86,7 @@ Episode 700	Average Score: 13.82
 Episode 774	Average Score: 15.04
 Environment solved in 774 episodes!	Average Score: 15.04
 ~~~
+![plot](https://github.com/ealbenque/deep_RL-DQN/assets/137990986/4c1d5030-d6d8-4a14-a906-acf269cb4c62)
 
 ### Ideas for Future Work
 This project used simply a vanila DQN.<br/>
